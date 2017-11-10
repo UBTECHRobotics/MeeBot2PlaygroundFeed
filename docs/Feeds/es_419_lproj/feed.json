@@ -1,21 +1,75 @@
 {
-    "channels": [
+    "documents": [
         {
-            "bannerImageURL": "../../Featured/es_419_lproj/FeaturedTabBanner.png", 
-            "documents": [], 
-            "type": "hero", 
-            "title": "Aprende a programar"
+            "previewImageURLs": [], 
+            "bannerImageURL": "../../Content/MeeBotDances/es_419_lproj/DetailsBanner_2x.png", 
+            "thumbnailURL": "../../Content/MeeBotDances/es_419_lproj/StoreBanner_2x.png", 
+            "subtitle": "Programa tus propios movimientos de baile para MeeBot", 
+            "description": "Usa c\u00f3digo Swift para dise\u00f1ar una coreograf\u00eda de baile para MeeBot. Esta lecci\u00f3n te ense\u00f1ar\u00e1 a crear tus propios movimientos de baile a trav\u00e9s de c\u00f3digo para que lleves el baile de MeeBot a otro nivel. En esta \u00faltima presentaci\u00f3n de MeeBot, usa los conocimientos que adquiriste en \u201cAprende a programar 1\u201d para sincronizar los movimientos de baile con el tempo de la m\u00fasica.", 
+            "publishedDate": "2017-05-29T12:00:00+00:00", 
+            "url": "../../Content/MeeBotDances/MeeBotDances.playgroundbook.zip", 
+            "additionalInformation": [
+                {
+                    "name": "Editor:", 
+                    "value": "UBTECH Robotics Corp."
+                }, 
+                {
+                    "name": "Versi\u00f3n:", 
+                    "value": "1.0"
+                }, 
+                {
+                    "type": "date", 
+                    "name": "Publicado:", 
+                    "value": "2017-05-29T12:00:00+00:00"
+                }, 
+                {
+                    "name": "Idiomas:", 
+                    "value": "Ingl\u00e9s, Alem\u00e1n, Franc\u00e9s, Chino simplificado, Japon\u00e9s y Espa\u00f1ol (Latinoam\u00e9rica)."
+                }
+            ], 
+            "title": "El baile de MeeBot", 
+            "contentVersion": "1.0", 
+            "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
+            "contentIdentifier": "com.ubtech.meebotlearnstodance", 
+            "sha512": "8e15d04106dde1b59c03dbb53238e829ae4de5812b65ec04c9995ceb7c262f175396cc34c11c67237a03a000abfe00f8df8da89a979e0d397e54bcd3ec13ad7c"
         }, 
         {
-            "documents": [], 
-            "type": "auxiliary", 
-            "title": "Retos"
-        }, 
-        {
-            "documents": [], 
-            "type": "auxiliary", 
-            "title": "Puntos de partida"
+            "previewImageURLs": [], 
+            "bannerImageURL": "../../Content/MeeBotTemplate/es_419_lproj/DetailsBanner_2x.png", 
+            "thumbnailURL": "../../Content/MeeBotTemplate/es_419_lproj/StoreBanner_2x.png", 
+            "subtitle": "Programa tus propios movimientos de baile para MeeBot", 
+            "description": "Usa esta plantilla para crear los movimientos de baile que quieras para MeeBot. \u00a1S\u00e9 creativo!", 
+            "publishedDate": "2017-05-29T12:00:00+00:00", 
+            "url": "../../Content/MeeBotTemplate/MeeBotTemplate.playgroundbook.zip", 
+            "additionalInformation": [
+                {
+                    "name": "Editor:", 
+                    "value": "UBTECH Robotics Corp."
+                }, 
+                {
+                    "name": "Versi\u00f3n:", 
+                    "value": "1.0"
+                }, 
+                {
+                    "type": "date", 
+                    "name": "Publicado:", 
+                    "value": "2017-05-29T12:00:00+00:00"
+                }, 
+                {
+                    "name": "Idiomas:", 
+                    "value": "Ingl\u00e9s, Alem\u00e1n, Franc\u00e9s, Chino simplificado, Japon\u00e9s y Espa\u00f1ol (Latinoam\u00e9rica)."
+                }
+            ], 
+            "title": "Plantilla de MeeBot", 
+            "contentVersion": "1.0", 
+            "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
+            "contentIdentifier": "com.ubtech.meebotlearnstodance.template", 
+            "sha512": "6cb9a9aab4e8d1ba7bd464bd282fab08fd76f5114f4d1a522d83a152266f74c4e7fba7acf3d339d73842f4188fabddabbb34c7a37e3294953f8ed5e6813e6ad9"
         }
     ], 
-    "accessoriesFeeds": "../../Partners/Feed/es_419_lproj/feed.json"
+    "publisherName": "[Replace Me]", 
+    "title": "[Replace Me]", 
+    "formatVersion": "1.0", 
+    "feedIdentifier": "com.ubtech", 
+    "contactURL": "mailto:replaceme@with-something-else.com"
 }

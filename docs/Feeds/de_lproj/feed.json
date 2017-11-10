@@ -1,21 +1,75 @@
 {
-    "channels": [
+    "documents": [
         {
-            "bannerImageURL": "../../Featured/de_lproj/FeaturedTabBanner.png", 
-            "documents": [], 
-            "type": "hero", 
-            "title": "Programmieren lernen"
+            "previewImageURLs": [], 
+            "bannerImageURL": "../../Content/MeeBotDances/de_lproj/DetailsBanner_2x.png", 
+            "thumbnailURL": "../../Content/MeeBotDances/de_lproj/StoreBanner_2x.png", 
+            "subtitle": "Schreibe deine eigenen Tanzmoves f\u00fcr MeeBot", 
+            "description": "Komponiere mit Swift eine Tanzchoreografie f\u00fcr MeeBot. In dieser \u00dcbung findest du heraus, wie du mit Code deine eigenen Tanzmoves kreierst, um den Tanz von Meebot noch besser zu machen. Nutze, was du in \u201eProgrammieren lernen 1\u201c gelernt hast, um f\u00fcr die gro\u00dfe Meebot-Performance deine Tanzmoves an das Tempo der Musik anzupassen.", 
+            "publishedDate": "2017-05-29T12:00:00+00:00", 
+            "url": "../../Content/MeeBotDances/MeeBotDances.playgroundbook.zip", 
+            "additionalInformation": [
+                {
+                    "name": "Urheber:", 
+                    "value": "UBTECH Robotics Corp."
+                }, 
+                {
+                    "name": "Version:", 
+                    "value": "1.0"
+                }, 
+                {
+                    "type": "date", 
+                    "name": "Ver\u00f6ffentlicht:", 
+                    "value": "2017-05-29T12:00:00+00:00"
+                }, 
+                {
+                    "name": "Sprachen:", 
+                    "value": "Deutsch, Englisch, Franz\u00f6sisch, Chinesisch (Vereinfacht), Japanisch und Spanisch (Lateinamerika)."
+                }
+            ], 
+            "title": "MeeBot-T\u00e4nze", 
+            "contentVersion": "1.0", 
+            "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
+            "contentIdentifier": "com.ubtech.meebotlearnstodance", 
+            "sha512": "8e15d04106dde1b59c03dbb53238e829ae4de5812b65ec04c9995ceb7c262f175396cc34c11c67237a03a000abfe00f8df8da89a979e0d397e54bcd3ec13ad7c"
         }, 
         {
-            "documents": [], 
-            "type": "auxiliary", 
-            "title": "Herausforderungen"
-        }, 
-        {
-            "documents": [], 
-            "type": "auxiliary", 
-            "title": "Ausgangspunkte"
+            "previewImageURLs": [], 
+            "bannerImageURL": "../../Content/MeeBotTemplate/de_lproj/DetailsBanner_2x.png", 
+            "thumbnailURL": "../../Content/MeeBotTemplate/de_lproj/StoreBanner_2x.png", 
+            "subtitle": "Schreibe deine eigenen Tanzmoves f\u00fcr MeeBot", 
+            "description": "Du kannst mit dieser Vorlage alle Tanzmoves, die du dir vorstellen kannst, f\u00fcr MeeBot erstellen. Sei kreativ!", 
+            "publishedDate": "2017-05-29T12:00:00+00:00", 
+            "url": "../../Content/MeeBotTemplate/MeeBotTemplate.playgroundbook.zip", 
+            "additionalInformation": [
+                {
+                    "name": "Urheber:", 
+                    "value": "UBTECH Robotics Corp."
+                }, 
+                {
+                    "name": "Version:", 
+                    "value": "1.0"
+                }, 
+                {
+                    "type": "date", 
+                    "name": "Ver\u00f6ffentlicht:", 
+                    "value": "2017-05-29T12:00:00+00:00"
+                }, 
+                {
+                    "name": "Sprachen:", 
+                    "value": "Deutsch, Englisch, Franz\u00f6sisch, Chinesisch (Vereinfacht), Japanisch und Spanisch (Lateinamerika)."
+                }
+            ], 
+            "title": "MeeBot-Vorlage", 
+            "contentVersion": "1.0", 
+            "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
+            "contentIdentifier": "com.ubtech.meebotlearnstodance.template", 
+            "sha512": "6cb9a9aab4e8d1ba7bd464bd282fab08fd76f5114f4d1a522d83a152266f74c4e7fba7acf3d339d73842f4188fabddabbb34c7a37e3294953f8ed5e6813e6ad9"
         }
     ], 
-    "accessoriesFeeds": "../../Partners/Feed/de_lproj/feed.json"
+    "publisherName": "[Replace Me]", 
+    "title": "[Replace Me]", 
+    "formatVersion": "1.0", 
+    "feedIdentifier": "com.ubtech", 
+    "contactURL": "mailto:replaceme@with-something-else.com"
 }
