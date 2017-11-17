@@ -67,8 +67,8 @@
             "sha512": "6cb9a9aab4e8d1ba7bd464bd282fab08fd76f5114f4d1a522d83a152266f74c4e7fba7acf3d339d73842f4188fabddabbb34c7a37e3294953f8ed5e6813e6ad9"
         }
     ], 
-    "publisherName": "[Replace Me]", 
-    "title": "[Replace Me]", 
+    "publisherName": "UBTECH Robotics", 
+    "title": "MeeBot Playgrounds", 
     "formatVersion": "1.0", 
     "feedIdentifier": "com.ubtech", 
     "contactURL": "mailto:replaceme@with-something-else.com"
