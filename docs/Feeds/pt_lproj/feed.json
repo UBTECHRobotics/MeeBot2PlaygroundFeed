@@ -15,7 +15,7 @@
                 }, 
                 {
                     "name": "Vers\u00e3o:", 
-                    "value": "1.0"
+                    "value": "1.1"
                 }, 
                 {
                     "type": "date", 
@@ -28,10 +28,9 @@
                 }
             ], 
             "title": "MeeBot Dances", 
-            "contentVersion": "1.0", 
-            "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
-            "contentIdentifier": "com.ubtech.meebotlearnstodance", 
-            "sha512": "8e15d04106dde1b59c03dbb53238e829ae4de5812b65ec04c9995ceb7c262f175396cc34c11c67237a03a000abfe00f8df8da89a979e0d397e54bcd3ec13ad7c"
+            "contentVersion": "1.1", 
+            "lastUpdatedDate": "2018-10-24T12:00:00+00:00", 
+            "contentIdentifier": "com.ubtech.meebotlearnstodance"
         }, 
         {
             "previewImageURLs": [], 
@@ -48,7 +47,7 @@
                 }, 
                 {
                     "name": "Vers\u00e3o:", 
-                    "value": "1.0"
+                    "value": "1.1"
                 }, 
                 {
                     "type": "date", 
@@ -61,10 +60,9 @@
                 }
             ], 
             "title": "MeeBot Template", 
-            "contentVersion": "1.0", 
-            "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
-            "contentIdentifier": "com.ubtech.meebotlearnstodance.template", 
-            "sha512": "6cb9a9aab4e8d1ba7bd464bd282fab08fd76f5114f4d1a522d83a152266f74c4e7fba7acf3d339d73842f4188fabddabbb34c7a37e3294953f8ed5e6813e6ad9"
+            "contentVersion": "1.1", 
+            "lastUpdatedDate": "2018-10-24T12:00:00+00:00", 
+            "contentIdentifier": "com.ubtech.meebotlearnstodance.template"
         }
     ], 
     "publisherName": "UBTECH Robotics Corp.", 
