@@ -68,7 +68,7 @@
             "previewImageURLs": [], 
             "bannerImageURL": "../../Content/AstrobotMars/en_lproj/DetailsBanner_2x.png", 
             "thumbnailURL": "../../Content/AstrobotMars/en_lproj/StoreBanner_2x.png", 
-            "title": "AstroBot Mars", 
+            "title": "AstroBot Mars Mission", 
             "overviewSubtitle": "Control AstroBot to repair the Mars base", 
 
             "description": "Control AstroBot using Swift to repair the Mars base in AR.  Use Swift to help AstroBot navigate in this new environment while learning sciences.  Utilize what you previously learned in \u201cLearn to Code 1\u201d to create an environment on Mars that humans can live in.", 
@@ -94,7 +94,7 @@
                 }
             ], 
 
-            "contentVersion": "1.0", 
+            "contentVersion": "1.0.1", 
             "lastUpdatedDate": "2018-11-06T12:00:00+00:00", 
             "contentIdentifier": "com.ubtech.astrobotmars"
         }
