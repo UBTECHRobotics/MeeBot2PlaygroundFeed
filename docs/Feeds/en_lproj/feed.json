@@ -72,7 +72,6 @@
             "description": "Control AstroBot using Swift to repair the Mars base in AR.  Use Swift to help AstroBot navigate in this new environment while learning sciences.  Utilize what you previously learned in \u201cLearn to Code 1\u201d to create an environment on Mars that humans can live in.", 
             "publishedDate": "2018-11-06T12:00:00+00:00", 
             "url": "../../Content/AstrobotMars/Astrobot.playgroundbook.zip",
-            "sha512": "99d05e6f0be142713541e688f6cc3efc53d870743813bfa618a08b21e279cb322cabce2bcb733b202a31a4ac1d45f93d87fa68475be69de2b97673146736b66e",
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
