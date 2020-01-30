@@ -1,73 +1,41 @@
 {
     "documents": [
         {
-            "previewImageURLs": [], 
-            "bannerImageURL": "../../Content/MeeBotDances/sv_lproj/DetailsBanner_2x.png", 
-            "thumbnailURL": "../../Content/MeeBotDances/sv_lproj/StoreBanner_2x.png", 
-            "overviewSubtitle": "Code your own dance moves for MeeBot, your personal Jimu Robot", 
-            "description": "Use Swift to compose a choreographed dance for MeeBot. This lesson will also show you how to create your own custom dance moves through code to take Meebot\u2019s dance to the next level. Utilize what you previously learned in \u201cLearn to Code 1\u201d to time your dance moves with the tempo of the music for Meebot\u2019s final performance.", 
-            "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "../../Content/MeeBotDances/MeeBotDances.playgroundbook.zip", 
+            "previewImageURLs": [],
+            "bannerImageURL": "../../Content/MeeBot2Dances/en_lproj/DetailsBanner_2x.png",
+            "thumbnailURL": "../../Content/MeeBot2Dances/en_lproj/StoreBanner_2x.png",
+            "overviewSubtitle": "Code your own dance moves for MeeBot 2.0, your personal Jimu Robot",
+            "description": "Use Swift to compose a choreographed dance for MeeBot. This lesson will also show you how to create your own custom dance moves through code to take Meebot\u2019s dance to the next level. Utilize what you previously learned in \u201cLearn to Code 1\u201d to time your dance moves with the tempo of the music for Meebot\u2019s final performance.",
+            "publishedDate": "2020-01-16T12:00:00+00:00",
+            "url": "../../Content/MeeBot2Dances/MeeBot2.0Dances.playgroundbook.zip",
             "additionalInformation": [
                 {
-                    "name": "Utgivare:", 
+                    "name": "Publisher:",
                     "value": "UBTECH Robotics Corp."
-                }, 
+                },
                 {
-                    "name": "Version:", 
-                    "value": "1.1"
-                }, 
+                    "name": "Version:",
+                    "value": "1.0"
+                },
                 {
-                    "type": "date", 
-                    "name": "Released:", 
-                    "value": "2017-05-29T12:00:00+00:00"
-                }, 
+                    "type": "date",
+                    "name": "Released:",
+                    "value": "2020-01-16T12:00:00+00:00"
+                },
                 {
-                    "name": "Languages:", 
+                    "name": "Languages:",
                     "value": "English, German, French, Simplified Chinese, Japanese, and Latin American Spanish."
                 }
-            ], 
-            "title": "MeeBot Dances", 
-            "contentVersion": "1.1", 
-            "lastUpdatedDate": "2018-10-24T12:00:00+00:00", 
-            "contentIdentifier": "com.ubtech.meebotlearnstodance"
-        }, 
-        {
-            "previewImageURLs": [], 
-            "bannerImageURL": "../../Content/MeeBotTemplate/sv_lproj/DetailsBanner_2x.png", 
-            "thumbnailURL": "../../Content/MeeBotTemplate/sv_lproj/StoreBanner_2x.png", 
-            "overviewSubtitle": "Code your own dance moves for MeeBot, your personal Jimu Robot", 
-            "description": "Create MeeBot\u2019s dance moves however you want using this template. Get creative!", 
-            "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "../../Content/MeeBotTemplate/MeeBotTemplate.playgroundbook.zip", 
-            "additionalInformation": [
-                {
-                    "name": "Utgivare:", 
-                    "value": "UBTECH Robotics Corp."
-                }, 
-                {
-                    "name": "Version:", 
-                    "value": "1.1"
-                }, 
-                {
-                    "type": "date", 
-                    "name": "Released:", 
-                    "value": "2017-05-29T12:00:00+00:00"
-                }, 
-                {
-                    "name": "Languages:", 
-                    "value": "English, German, French, Simplified Chinese, Japanese, and Latin American Spanish."
-                }
-            ], 
-            "title": "MeeBot Template", 
-            "contentVersion": "1.1", 
-            "lastUpdatedDate": "2018-10-24T12:00:00+00:00", 
-            "contentIdentifier": "com.ubtech.meebotlearnstodance.template"
+            ],
+            "title": "MeeBot 2.0 Dances",
+            "contentVersion": "1.0",
+            "lastUpdatedDate": "2020-01-16T12:00:00+00:00",
+            "contentIdentifier": "com.ubtech.meebottwolearnstodance"
         }
-    ], 
-    "publisherName": "UBTECH Robotics Corp.", 
-    "title": "MeeBot Playgrounds", 
-    "formatVersion": "1.0", 
-    "feedIdentifier": "com.ubtech", 
+    ],
+    "publisherName": "UBTECH Robotics Corp.",
+    "title": "MeeBot 2.0 Playgrounds",
+    "formatVersion": "1.0",
+    "feedIdentifier": "com.ubtech",
     "contactURL": "mailto:jimu.service@ubtrobot.com"
 }

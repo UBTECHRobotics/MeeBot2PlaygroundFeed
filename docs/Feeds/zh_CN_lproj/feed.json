@@ -2,12 +2,12 @@
     "documents": [
         {
             "previewImageURLs": [], 
-            "bannerImageURL": "../../Content/MeeBotDances/zh_CN_lproj/DetailsBanner_2x.png", 
-            "thumbnailURL": "../../Content/MeeBotDances/zh_CN_lproj/StoreBanner_2x.png", 
-            "overviewSubtitle": "\u4e3a\u4f60\u7684\u4e2a\u4eba Jimu Robot MeeBot \u7f16\u5199\u81ea\u5df1\u7684\u821e\u6b65\u4ee3\u7801", 
-            "description": "\u4f7f\u7528 Swift \u7ed9 MeeBot \u7f16\u821e\u3002 \u8fd9\u4e00\u8bfe\u8fd8\u4f1a\u5411\u4f60\u4ecb\u7ecd\u5982\u4f55\u4f7f\u7528\u4ee3\u7801\u7f16\u51fa\u81ea\u5df1\u7684\u4e2a\u6027\u5316\u821e\u6b65\uff0c\u63d0\u5347 Meebot \u7684\u821e\u8e48\u6c34\u5e73\u3002 \u8fd0\u7528\u4f60\u4e4b\u524d\u5728\u201c\u5b66\u4e60\u7f16\u7a0b 1\u201d\u4e2d\u5b66\u5230\u7684\u77e5\u8bc6\uff0c\u4f7f Meebot \u5728\u6700\u540e\u4e00\u573a\u8868\u6f14\u4e2d\uff0c\u8ddf\u968f\u97f3\u4e50\u8282\u62cd\u8df3\u8d77\u6765\u3002", 
+            "bannerImageURL": "../../Content/MeeBot2Dances/zh_CN_lproj/DetailsBanner_2x.png",
+            "thumbnailURL": "../../Content/MeeBot2Dances/zh_CN_lproj/StoreBanner_2x.png",
+            "overviewSubtitle": "\u4e3a\u4f60\u7684\u4e2a\u4eba Jimu Robot MeeBot 2.0 \u7f16\u5199\u81ea\u5df1\u7684\u821e\u6b65\u4ee3\u7801",
+            "description": "\u4f7f\u7528 Swift \u7ed9 MeeBot 2.0 \u7f16\u821e\u3002 \u8fd9\u4e00\u8bfe\u8fd8\u4f1a\u5411\u4f60\u4ecb\u7ecd\u5982\u4f55\u4f7f\u7528\u4ee3\u7801\u7f16\u51fa\u81ea\u5df1\u7684\u4e2a\u6027\u5316\u821e\u6b65\uff0c\u63d0\u5347 Meebot 2.0 \u7684\u821e\u8e48\u6c34\u5e73\u3002 \u8fd0\u7528\u4f60\u4e4b\u524d\u5728\u201c\u5b66\u4e60\u7f16\u7a0b 1\u201d\u4e2d\u5b66\u5230\u7684\u77e5\u8bc6\uff0c\u4f7f Meebot 2.0 \u5728\u6700\u540e\u4e00\u573a\u8868\u6f14\u4e2d\uff0c\u8ddf\u968f\u97f3\u4e50\u8282\u62cd\u8df3\u8d77\u6765\u3002",
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "../../Content/MeeBotDances/MeeBotDances.playgroundbook.zip", 
+            "url": "../../Content/MeeBot2Dances/MeeBot2.0Dances.playgroundbook.zip",
             "additionalInformation": [
                 {
                     "name": "\u53d1\u5e03\u8005\uff1a", 
@@ -15,58 +15,26 @@
                 }, 
                 {
                     "name": "\u7248\u672c\uff1a", 
-                    "value": "1.1"
+                    "value": "1.0"
                 }, 
                 {
                     "type": "date", 
                     "name": "\u53d1\u5e03\uff1a", 
-                    "value": "2017-05-29T12:00:00+00:00"
+                    "value": "2020-01-16T12:00:00+00:00"
                 }, 
                 {
                     "name": "\u8bed\u8a00\uff1a", 
                     "value": "\u82f1\u6587\u3001\u5fb7\u6587\u3001\u6cd5\u6587\u3001\u7b80\u4f53\u4e2d\u6587\u3001\u65e5\u6587\u548c\u62c9\u4e01\u7f8e\u6d32\u897f\u73ed\u7259\u6587\u3002"
                 }
             ], 
-            "title": "MeeBot \u821e\u8e48", 
-            "contentVersion": "1.1", 
-            "lastUpdatedDate": "2018-10-24T12:00:00+00:00",  
-            "contentIdentifier": "com.ubtech.meebotlearnstodance"
-        }, 
-        {
-            "previewImageURLs": [], 
-            "bannerImageURL": "../../Content/MeeBotTemplate/zh_CN_lproj/DetailsBanner_2x.png", 
-            "thumbnailURL": "../../Content/MeeBotTemplate/zh_CN_lproj/StoreBanner_2x.png", 
-            "overviewSubtitle": "\u4e3a\u4f60\u7684\u4e2a\u4eba Jimu Robot MeeBot \u7f16\u5199\u81ea\u5df1\u7684\u821e\u6b65\u4ee3\u7801", 
-            "description": "\u4f7f\u7528\u6b64\u6a21\u677f\u6309\u81ea\u5df1\u7684\u60f3\u6cd5\u7ed9 MeeBot \u7f16\u821e\u3002\u53d1\u6325\u521b\u610f\u5427\uff01", 
-            "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "../../Content/MeeBotTemplate/MeeBotTemplate.playgroundbook.zip", 
-            "additionalInformation": [
-                {
-                    "name": "\u53d1\u5e03\u8005\uff1a", 
-                    "value": "UBTECH Robotics Corp."
-                }, 
-                {
-                    "name": "\u7248\u672c\uff1a", 
-                    "value": "1.1"
-                }, 
-                {
-                    "type": "date", 
-                    "name": "\u53d1\u5e03\uff1a", 
-                    "value": "2017-05-29T12:00:00+00:00"
-                }, 
-                {
-                    "name": "\u8bed\u8a00\uff1a", 
-                    "value": "\u82f1\u6587\u3001\u5fb7\u6587\u3001\u6cd5\u6587\u3001\u7b80\u4f53\u4e2d\u6587\u3001\u65e5\u6587\u548c\u62c9\u4e01\u7f8e\u6d32\u897f\u73ed\u7259\u6587\u3002"
-                }
-            ], 
-            "title": "MeeBot \u6a21\u677f", 
-            "contentVersion": "1.1", 
-            "lastUpdatedDate": "2018-10-24T12:00:00+00:00", 
-            "contentIdentifier": "com.ubtech.meebotlearnstodance.template"
+            "title": "MeeBot 2.0 \u821e\u8e48",
+            "contentVersion": "1.0",
+            "lastUpdatedDate": "2020-01-16T12:00:00+00:00",
+            "contentIdentifier": "com.ubtech.meebottwolearnstodance"
         }
     ], 
     "publisherName": "UBTECH Robotics Corp.", 
-    "title": "MeeBot Playgrounds", 
+    "title": "MeeBot 2.0 Playgrounds",
     "formatVersion": "1.0", 
     "feedIdentifier": "com.ubtech", 
     "contactURL": "mailto:jimu.service@ubtrobot.com"
